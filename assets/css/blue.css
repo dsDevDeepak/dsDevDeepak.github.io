@@ -71,6 +71,12 @@ ul, li {
   list-style: none;
 }
 
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
+
 header, nav, section, article, aside, footer, hgroup {
   display: block;
 }
